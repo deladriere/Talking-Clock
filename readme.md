@@ -7,3 +7,4 @@ Talking clock based on https://github.com/going-digital/Talkie
 # Todo
 * publish v2 schematic
 * publish v2 code
+* publish casing openscad code
