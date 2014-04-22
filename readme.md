@@ -9,4 +9,5 @@ Talking clock based on https://github.com/going-digital/Talkie
 * publish v2 code
 * publish casing openscad code
 * add picture of casing
+* check v1 for pcb error
 
